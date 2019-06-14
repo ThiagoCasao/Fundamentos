@@ -1,0 +1,23 @@
+1)	O que é o insumo, ou entrada, em um sistema de informação?
+
+2)	Onde podemos coletar dados para sistemas alimentar sistemas? Explique e cite exemplos.
+
+3)	Explique o que é um desenvolvedor backend, frontend, e full stack;
+
+4)	Qual a diferença entre frontend e designer?
+
+5)	Quem é o responsável por manter um servidor de banco de dados e quais são suas obrigações?
+
+6)	Que dados uma nota fiscal eletrônica possui? Cite todos e o objetivo de ter esses dados.
+
+7)	Quais os benefícios em versionar código fonte em ambientes como o GitHub?
+
+8)	Como funciona o fluxo de trabalho e quais os benefícios em ter o trabalho dividido nas seguintes etapas: a fazer, fazendo, feito.
+
+9)	Como você imagina que seja a criação e desenvolvimento de um software? Explique detalhadamente cada atividade e porque ela acontece.
+
+10)	Explique para que serve e as principais funcionalidades do Trello
+
+11)	Explique para que serve e as principais funcionalidades do Slack.
+
+12)	Explique para que serve e as principais funcionalidades do Github.
